@@ -3,4 +3,5 @@ Au cours de notre formation BeCode, nous avons décidé d'améliorer un exercice
 
 Collaborateurs : 
 [Cédric Fournier](https://github.com/Cedric-Fournier)
+-
 [Geraldine Winand](https://github.com/Geraldinew04)
